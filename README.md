@@ -11,3 +11,4 @@ This repository contains implementations of various design patterns in Node.js. 
 5. Lab 5: [Bridge Method](./BridgeMethod)
 6. Lab 6: [Proxy Method](./ProxyMethod)
 7. Lab 7: [Strategy Method](./StrategyMethod)
+8. Lab 7: [Template Method](./TemplateMethod)
