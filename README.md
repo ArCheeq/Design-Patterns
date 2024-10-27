@@ -8,3 +8,4 @@ This repository contains implementations of various design patterns in Node.js. 
 2. Lab 2: [Factory Method](./FactoryMethod)
 3. Lab 3: [Builder Method](./BuilderMethod)
 4. Lab 4: [Adapter Method](./AdapterMethod)
+5. Lab 5: [Bridge Method](./BridgeMethod)
