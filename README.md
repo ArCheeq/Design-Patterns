@@ -13,3 +13,4 @@ This repository contains implementations of various design patterns in Node.js. 
 7. Lab 7: [Strategy Method](./StrategyMethod)
 8. Lab 8: [Template Method](./TemplateMethod)
 8. Lab 9: [Visitor Method](./VisitorMethod)
+8. Lab 10: [Controller Method](./ControllerMethod)
